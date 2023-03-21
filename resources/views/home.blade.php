@@ -119,7 +119,7 @@
                     <p class="mbr-fonts-style mbr-section-tag display-7">TARGET</p>
                     <h1 class="mbr-section-title mbr-fonts-style mbr-dark display-2"><strong>
                             Our&nbsp;</strong><strong style="color:#4AC7F0">Mission&nbsp;</strong></h1>
-                    <p class="mbr-subtitle mbr-fonts-style mbr-dark display-5"><em>Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonum nibhie euismod</em><br></p>
+                    <p class="mbr-subtitle mbr-fonts-style mbr-dark display-5"><em>Our main target is to supply quality work all the time with 100% accuracy as well as reliability.</em><br></p>
                     <p class="mbr-text mbr-fonts-style mbr-dark display-7">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;</p>
                     <div class="mbr-section-bottom">
 
@@ -507,11 +507,7 @@
 
 
                         <p class="mbr-text mbr-regular align-center mbr-fonts-style box display-5">
-                            Lorem ipsum dolor sit amet, conse ctetuer adipiscing elit, sed diam nonum nibhie euismod.
-                            Facilisis
-                            at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril. Donec
-                            ultrices
-                            enim lectus, nec volutpat lorem scelerisque eu.</p>
+                            Hello there ! Here the Description going</p>
                         <div class="author mbr-m-auto">
                             <h3 class="mbr-semibold pb-0 mb-0 mbr-fonts-style display-7">Briana Scott
                             </h3>
@@ -549,7 +545,7 @@
 
 
                         <p class="mbr-text mbr-regular align-center mbr-fonts-style box display-5">
-                            A Developer Can Change the World By Executing Their thought On Mind
+                            A Developer Can Change the World By Executing Their thought On Code
                         </p>
                         <div class="author mbr-m-auto">
                             <h3 class="mbr-semibold pb-0 mb-0 mbr-fonts-style display-7">Mizanur Rahman Jisan
